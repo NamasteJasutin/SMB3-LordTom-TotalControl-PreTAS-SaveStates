@@ -1,9 +1,12 @@
 # SMB3-LordTom-TotalControl-PreTAS-SaveStates
 Ripped SaveStates of Lord Tom's Total Control TAS Exploit which showcase SMB3 Exploit to inject arbitrary code and create payloads using controller inputs (P1&amp;&amp;P2). For more info and copyright, see; http://tasvideos.org/4961S.html . This is not my work, I did nothing to accomplish these exploits and controls, nor did I have anything remotely to do with the project. I merely ripped the video, ended the TAS after the payload and before the showcase as seen in his video, save the state to a file to play around with and decided to share it on the internet.
 
+I have seperated the video in 5 stages and saved 2 of them; 2&3.
+I've also recorded the frame numbers where the payload ends, for your own (ab)use.
+
 SMB3 Total Control Save State Frame #
 SUDO Color-a-dinosaur
-13073
+#13073
 
 WarpTo 2-4 --SuperMetroid
 Controls P1; Select = Powerboost; Need to have P-Max to use. Run walk as usual
@@ -17,10 +20,11 @@ Controls P1; Walk as usual, jump and run. P2; Select = Activate Orbital ShellShi
 Frame #0018379              SaveState = SMB3-TotalControlTomLordStage3.fc0.fcs
 
 WarpTo 8-Tank1 --PwnScroll --Disabled
-#0024823
+(Will do next)
+#24823
 
 Warpto Bowser --SurpriseMe
-#0026919
+#26919
 
 My Control scheme:
 P1 {
